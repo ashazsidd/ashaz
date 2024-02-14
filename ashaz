@@ -1,0 +1,6 @@
+import java.util.*;
+class ashazz
+{
+public static void main()
+{
+System.out.prinltn("Ashazz");
